@@ -3,7 +3,7 @@
 An intelligent Natural Language Processing tool that converts natural language queries into SQL commands, making database interactions accessible to non-technical users.
 
 ## Demo Video
-[demo video](https://your-demo-link.com)
+[demo video](Video/Final%20video.mp4)
 
 ## 🎯 Project Overview
 
@@ -171,4 +171,4 @@ Output: Generates comparison table and analytical summary
 - **Robust Error Handling**: Comprehensive validation and recovery
 ---
 
-For more information, visit our [demo video](https://your-demo-link.com)
+For more information, visit our [demo video](Video/Final%20video.mp4)
